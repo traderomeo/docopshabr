@@ -11,6 +11,10 @@ nav:
     - ag/index.md
     - ag/setup.md
     - ag/pub_setup.md
+  - Инженер облачных сервисов:
+    - cleng/index.md
+    - Виртуальные машин:
+      - vm/index.md
 
 theme:
   name: material
