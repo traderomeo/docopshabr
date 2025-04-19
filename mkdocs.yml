@@ -72,7 +72,7 @@ extra:
     provider: mike
 
 repo_name: DocOpsHabr Docs
-# repo_url: https://github.com/docopshabr/docopshabr
-repo_url: https://github.dev/docopshabr/docopshabr
+# repo_url: https://github.com/traderomeo/docopshabr
+repo_url: https://github.dev/traderomeo/docopshabr
 # edit_uri: edit/main/docs/
 edit_uri: blob/main/docs/
